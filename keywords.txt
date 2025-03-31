@@ -1,0 +1,22 @@
+# Syntax Coloring Map For AGVLineSensor
+
+# Datatypes (KEYWORD1)
+AGVLineSensor	KEYWORD1
+DataSource	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+enableSerialOutput	KEYWORD2
+disableSerialOutput	KEYWORD2
+isSerialOutputEnabled	KEYWORD2
+setDataSource	KEYWORD2
+sendCommand	KEYWORD2
+calibrate	KEYWORD2
+getLinePosition	KEYWORD2
+isLineDetected	KEYWORD2
+isJunctionDetected	KEYWORD2
+readDigitalSensorInputs	KEYWORD2
+getDigitalSensorReadings	KEYWORD2
+
+# Constants (LITERAL1)
+ANALOG	LITERAL1
+SERIAL_COMM	LITERAL1
